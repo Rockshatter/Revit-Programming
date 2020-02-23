@@ -1,3 +1,4 @@
+#works pretty well
 from Autodesk.Revit.DB import FilteredElementCollector, BuiltInCategory, Transaction, TransactionGroup
 
 doc = __revit__.ActiveUIDocument.Document
